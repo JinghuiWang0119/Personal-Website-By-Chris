@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 This is my personal portfolio website, designed and developed to showcase my projects, experience, and skills as a software engineer.  
-👉 [Live Site](https://personal-website-bay-nine.vercel.app/)
+👉 [Live Site](https://jinghuiwang.vercel.app/)
 
 ## 🗂️ Project Structure
 

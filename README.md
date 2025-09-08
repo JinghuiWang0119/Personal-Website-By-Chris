@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 🙋‍♂️ Author
 
 Made by **Jinghui Wang**  
-Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email.
+Feel free to connect or reach out via [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jinghui-wang-31b3a3275/)).
